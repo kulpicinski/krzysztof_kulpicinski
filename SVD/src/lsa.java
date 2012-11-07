@@ -48,6 +48,7 @@ public class lsa {
 		      System.out.print(sumU);
 		      System.out.print("\n");
 		      System.out.print(sumV);
+		      System.out.print("\nkilka zmian");
 
 		}
 
